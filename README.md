@@ -6,3 +6,6 @@ Process overview:
 2. Shell unzips same text files
 3. Shell compiles main.cpp
 4. Main.exe runs and prints each unzipped file using independent threads
+
+To run example:
+  $ bash unzip_and_comp.sh
